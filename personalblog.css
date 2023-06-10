@@ -125,12 +125,12 @@ h2 {
 
 
 .f2{
-    color: red;
+    color: white;
     
 }
 .f5{
     color:red;
-    margin-right:200px;
+    /* margin-right:200px; */
     text-align: center;
 }
 
@@ -142,7 +142,7 @@ text-align: center;
 
 .card{
     height: 700px;
-    color: black;
+    
     margin-top: 20px;
     
     
@@ -150,7 +150,7 @@ text-align: center;
     }
     .card-title{
         
-        color:black;
+        color:;
         text-align: center;
         font-size: 25px;
     }
