@@ -1,0 +1,227 @@
+body{
+    margin: 0;
+    font-style: italic;
+}
+ .carousel img {
+    height: 500px;
+    width: 500px;
+    text-align: center;
+     margin-left: 35px;
+     margin-right: 120px;
+     
+}
+
+.carousel-control-prev {
+    width: 50px;
+    
+}
+
+
+
+h1 {
+    font-size: 50px;
+}
+
+.carousel {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+textarea {
+    border: 0;
+}
+
+form button {
+    color: white;
+    background-color: rgb(46, 4, 112);
+    width: 150px;
+    padding: 10px 0;
+    align-items: center;
+    border: 0;
+} 
+
+
+#img img {
+    width: 100%;
+    
+}
+
+.color {
+    background-color: rgb(240, 238, 236);
+    margin-bottom: 50px;
+} 
+
+#container1 {
+
+    background-color: white;
+}
+
+.img1 img {
+    width: 100%
+}
+
+h2 {
+    color: red;
+    margin-top: 100PX;
+    text-align: center;
+
+}
+.h21{
+    margin:20px;
+    padding-top: 50px;
+}
+
+ 
+.card:hover{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+#container1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.last{
+    border: solid 1px rgb(46, 4, 112);
+    background-color: white;
+    color:rgb(46, 4, 112);
+    text-align: center;
+    border-radius: 50px;
+    height: 60px;
+    width: 150px;
+}
+.last:hover{
+    color:white;
+    background-color:rgb(46, 4, 112) ;
+
+}
+.button2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+.carousel-control-next{
+    width: 50px;
+}
+@media(max-width:800px){
+    .carousel-caption h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .carousel-caption button{
+        height: 40px;
+        width:70;
+        margin: 0;
+    }
+    .carousel-caption p{
+        font-size: 12px;
+    }
+
+}
+.a8{
+    color: blueviolet;
+} */
+
+
+.f2{
+    color: red;
+    
+}
+.f5{
+    color:red;
+    margin-right:200px;
+    text-align: center;
+}
+
+.carousel slide carousel-fade{
+text-align: center;
+}
+
+
+
+.card{
+    height: 700px;
+    color: black;
+    margin-top: 20px;
+    
+    
+    
+    }
+    .card-title{
+        
+        color:black;
+        text-align: center;
+        font-size: 25px;
+    }
+    .card-body{
+        background-color: white;
+        
+    }
+    .g1{
+        height: 500px;
+    }
+    .p1{
+        color: white;
+    }
+    .d1{
+        /* height: 800px; */
+    }
+    .b1{
+        height:400px;
+    }
+    .card-img-top{
+        height: 300px;
+        width:100%;
+    }
+   .t1{
+    color: white;
+   }
+    .t2{
+    height: 300px;
+    width: 100%;
+    margin-bottom: 100px;
+    } 
+    .k1{
+        height:600px ;
+    }
+    .j1{
+        
+        height: 800px;
+    }
+    .r1{
+        color: red;
+    }
+
+
+.l2{
+    height: 200px;
+}
+.z5{
+    color: red;
+}
+
+
+.card:hover{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+#container1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.last{
+    border: solid 1px rgb(46, 4, 112);
+    background-color: white;
+    color:rgb(46, 4, 112);
+    text-align: center;
+    border-radius: 50px;
+    height: 60px;
+    width: 150px;
+}
+.last:hover{
+    color:white;
+    background-color:rgb(46, 4, 112) ;
+
+}
